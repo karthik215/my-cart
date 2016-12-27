@@ -1,0 +1,92 @@
+.container-wrapper {
+
+
+ height: 80%;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 300px;
+  }
+
+.home-image {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+}
+
+.table {
+    table-layout: fixed;
+    overflow: auto;
+}
+
+.table th {
+    text-align: center;
+    background-color:lightgreen;}
+
+.table td {
+    text-align: center;
+    background: whitesmoke;
+
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.login-box {
+    text-align: center;
+}
+
+.login-container {
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+
+
+/*footer CSS............
+..........................................*/
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+#footer {
+    border-top: 5px solid #CDB380;
+    background: #033649 none repeat scroll 0% 0%;
+    padding-top: 30px;
+    margin-top: 60px;
+    clear: both;
+    color: #AAA;
+    display: block;
+}
+
+#footer .widgettitle {
+    margin: 0px;
+    padding: 0px 0px 15px;
+    border-bottom: medium none;
+}
+#footer h4 {
+    color: #FFF;
+}
+
+#footer ul {
+    list-style: outside none none;
+}
+
+#footer li {
+    padding: 7px 0px;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
+    margin: 0px;
+}
+
+#footer li a {
+    color: #DDD;
+}
+
+#sub-floor {
+    color: #AAA;
+    background: #031634 none repeat scroll 0% 0%;
+    padding: 10px 0px;
+}
+
+body{
+	background-image:url(http://us.123rf.com/450wm/lizavetas/lizavetas1606/lizavetas160600059/58076954-vector-seamless-pattern-sewing-tailoring-stuff-handicrafts-items-can-be-used-for-wallpaper-pattern-f.jpg?ver=6);
+}
